@@ -1,6 +1,6 @@
 [project]
 name = "comfyagent"
-version = "0.1.5"
+version = "0.1.6"
 description = "AI Assistant extension for ComfyUI powered by OpenRouter and LLM Agent tool calls."
 authors = [{ name = "NiklasNK-Creator" }]
 readme = "README.md"
@@ -20,6 +20,7 @@ Repository = "https://github.com/NiklasNK-Creator/ComfyAgent"
 PublisherId = "lunar"
 DisplayName = "ComfyAgent"
 Icon = ""
+
 
 
 
