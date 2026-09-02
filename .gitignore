@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.zip
+.env
+.secret.key
+settings.json
+sessions.json
+publish.bat
+backups/
+comfyagent_backups/
+bump_version.py
+overview.html
+IMPROVEMENT_ROADMAP.md
+*.private.*
+*.internal.*
+*.comfyagent.bak
+ComfyAgent_v*.zip
